@@ -64,6 +64,9 @@
     padding: var(--jumbotron-padding);
 }
 /* clientsc724c807cc8b8e9ab */
+.clientsc724c807cc8b8e9ab{
+    padding: var(--section-padding);
+}
 .clientsc724c807cc8b8e9ab #clients {
     padding: 0px 0;
 }
@@ -71,8 +74,11 @@
     font-size: var(--heading-large);
 }
 /* fayete8bna5e4lc */
+.fayete8bna5e4lc{
+    padding: var(--section-padding);
+}
 .fayete8bna5e4lc .fdb-block {
-    padding: 4.5rem 0;
+    padding: 0rem 0;
 }
 .fayete8bna5e4lc .fdb-block .fdb-touch {
     border-top: solid 0.3125rem var(--secondary-Color);
@@ -92,6 +98,9 @@
     font-size: 16px;
 }
 /* calltoactionca2amoxmwyp */
+.calltoactionca2amoxmwyp{
+    padding: var(--section-padding);
+}
 .calltoactionca2amoxmwyp .fdb-block {
     padding: 0rem 0;
 }
@@ -120,7 +129,16 @@
 .productsfd232222df02a491 .blob-btn__blob{
     background: var(--alert-Color);
 }
+.productsfd232222df02a491 svg{
+    display: none;
+}
+.productsfd232222df02a491{
+    padding: var(--section-padding);
+}
 /* aboute50d5193e4b9f737 */
+.aboute50d5193e4b9f737{
+    padding: var(--section-padding);
+}
 .aboute50d5193e4b9f737 h2 {
     font-size: var(--heading-large);
 }
@@ -135,9 +153,15 @@
 .aboute50d5193e4b9f737 .margin{
     margin-left: -40px;
 }
+.aboute50d5193e4b9f737{
+    padding: var(--section-padding);
+}
 /* fruitft4wqz7r3sf */
+.fruitft4wqz7r3sf{
+    padding: var(--section-padding);
+}
 .fruitft4wqz7r3sf .fdb-block {
-    padding: 3.5rem 0;
+    padding: 0rem 0;
 }
 .fruitft4wqz7r3sf h1{
     font-size: var(--heading-large);
@@ -150,12 +174,15 @@
     margin-top: 10px;
 }
 /* abouteb092de7c8df0610 */
+.abouteb092de7c8df0610{
+    padding: var(--section-padding);
+}
 .abouteb092de7c8df0610 #AbOuTuS {
-    padding: 1rem;
+    padding: 0em;
     font-weight: 600 !important;
 }
 .abouteb092de7c8df0610 h2{
- font-size: var(--paragraph);
+ font-size: var(--heading-large);
 }
 /* quotec98b9fb5a898c4551 */
 .quotec98b9fb5a898c4551 .DescriptionHeading {
@@ -171,6 +198,9 @@
 }
 .quotec98b9fb5a898c4551 span{
     font-size: var(--paragraph);
+}
+.quotec98b9fb5a898c4551 {
+    padding: var(--section-padding);
 }
 /* footerb6c9fcc0294384085 */
 .footerb6c9fcc0294384085 footer{
