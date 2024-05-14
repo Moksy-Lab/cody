@@ -73,6 +73,9 @@
 .clientsc724c807cc8b8e9ab h2 {
     font-size: var(--heading-large);
 }
+.clientsc724c807cc8b8e9ab #clients .client-logo{
+    padding: 40px;
+}
 /* fayete8bna5e4lc */
 .fayete8bna5e4lc{
     padding: var(--section-padding);
