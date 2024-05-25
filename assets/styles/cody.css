@@ -187,24 +187,6 @@
 .abouteb092de7c8df0610 h2{
  font-size: var(--heading-large);
 }
-/* quotec98b9fb5a898c4551 */
-.quotec98b9fb5a898c4551 .DescriptionHeading {
-    font-size: var(--heading-large);
-}
-.quotec98b9fb5a898c4551 .btn-outline-primary,
-.quotec98b9fb5a898c4551 .btn-outline-primary:hover,
-.quotec98b9fb5a898c4551 .btn-outline-primary:not(:disabled):not(.disabled):active{
-    background: linear-gradient(90deg, var(--primary-Color) 0%, #F4197D 100%);
-    color: var(--main-Background-Color);
-    border: none;
-    font-weight: var(--button-font-weight);
-}
-.quotec98b9fb5a898c4551 span{
-    font-size: var(--paragraph);
-}
-.quotec98b9fb5a898c4551 {
-    padding: var(--section-padding);
-}
 /* footerb6c9fcc0294384085 */
 .footerb6c9fcc0294384085 footer{
     background: var(--black-Color);
