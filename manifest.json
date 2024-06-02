@@ -1,0 +1,30 @@
+{
+    "name": "cody",
+    "description": "Cody is a modern e-learning static website template, constructed using state-of-the-art technologies. It prioritizes design, providing an aesthetically pleasing and captivating platform for educational content hosting. While it may lack some functional components, the template establishes a foundation for crafting an immersive learning environment that engages students and supports educational goals.",
+    "short_name": "cody",
+    "start_url": "https://moksy.com/templates/cody",
+    "display": "standalone",
+    "background_color": "#f69435",
+    "theme_color": "#ff914f",
+    "orientation": "portrait",
+    "icons": [
+    {
+    "src": "/assets/images/branding/favicon/apple-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "/assets/images/branding/favicon/apple-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "purpose": "any maskable"
+    },
+    {
+    "src": "/assets/images/branding/favicon/android-icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+    }
+    ]
+    }
